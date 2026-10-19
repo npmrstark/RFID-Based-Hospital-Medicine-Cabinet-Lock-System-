@@ -22,6 +22,9 @@ Component	Purpose
   Buzzer -	Unauthorized access alarm
   Push button	- Door Close command
 
+  Block Diagram
+  ![image alt](https://github.com/npmrstark/RFID-Based-Hospital-Medicine-Cabinet-Lock-System-/blob/982b3f82f8a14679cb20bca2ff7e5bb788230899/Screenshot%202026-10-16%20194022.png)
+
 Software and Tools
 Embedded C
 Keil uVision (compiler and IDE)
